@@ -26,6 +26,7 @@ This app served as a practical implementation of several Flutter navigation tech
 - Stateful vs Stateless widgets
 - Passing data between screens
 - Basic UI layout and widget composition
+- Most importantly to use Riverpod and manage the different info across the app.
 
 ---
 
@@ -51,6 +52,7 @@ This app served as a practical implementation of several Flutter navigation tech
 
 - 🪄 Flutter SDK
 - 📂 Dart Language
+- Riverpod
 
 ---
 
@@ -62,5 +64,5 @@ This app served as a practical implementation of several Flutter navigation tech
 
 ---
 
-> ✅ *Built with passion to master Flutter navigation and beyond!*
+> ✅ *Built with passion to master Flutter navigation, Riverpod, and beyond!*
 
